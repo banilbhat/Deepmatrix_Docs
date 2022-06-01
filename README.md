@@ -1,7 +1,7 @@
 # Deepmatrix_Docs
 
 
-<h2>Jenkins installation on JCP</h2>
+<h2>Jenkins installation on GCP</h2>
 <a href="https://medium.com/bb-tutorials-and-thoughts/how-to-run-jenkins-on-gcp-vm-29dc18490fae">Link</a>
 <h3> Commands </h3>
 <ul>
