@@ -33,6 +33,17 @@ sudo apt-get install jenkins
 <hr>
 
 
+<h2>Jenkins Pipeline</h2>
+
+<ul>
+  <li>Create a new pipeline</li>
+  <li>Add github repo url </li>
+  <li> Select GitHub hook trigger for GITScm polling </li>
+  <li>Select GIT SCM option ,add url and add the branch </li>
+  <li> Add the Jenkinsfile path </li>
+</ul>
+
+
 
 
 
